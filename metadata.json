@@ -1,0 +1,11 @@
+{
+  "name": "함께 피우는 우정의 민들레꽃",
+  "description": "그림책 『친구의 전설』 연계 유아 상호작용 웹앱: 실물 민들레 홀씨 QR 보물찾기와 협동 디지털 민들레 피우기",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
